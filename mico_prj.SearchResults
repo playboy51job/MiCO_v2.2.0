@@ -1,0 +1,8 @@
+---- api.easylink.io Matches (7 in 3 files) ----
+EasyCloudServiceDef.h (mico_v2.2.0\include\easycloud):#define DEFAULT_CLOUD_SERVER            "api.easylink.io"
+EasyCloudServiceDef.h (mico_v2.2.0\include\easycloud):#define DEFAULT_MQTT_SERVER             "api.easylink.io"
+FogCloudServiceDef.h (mico_v2.2.0\include\fogcloud):#define DEFAULT_CLOUD_SERVER            "api.easylink.io"
+FogCloudServiceDef.h (mico_v2.2.0\include\fogcloud):#define DEFAULT_MQTT_SERVER             "api.easylink.io"
+Thread_ota.c (mico_v2.2.0\demos\com.alink.ha):#define OTA_SERVER "api.easylink.io"
+Thread_ota.c (mico_v2.2.0\demos\com.alink.ha):Host: api.easylink.io\r\n\
+Thread_ota.c (mico_v2.2.0\demos\com.alink.ha):Host: api.easylink.io\r\n\
